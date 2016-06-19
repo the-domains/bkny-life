@@ -1,7 +1,7 @@
 name: BKNY.Life
 favicon: null
-layout_spectrum: 0.6328411614522338
-typography_spectrum: 0.07019348838366568
+layout_spectrum: 0.92494
+typography_spectrum: 0.5879
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7075516621116549
-  lightness: 0.14669459592550993
+    - '#eff8ff'
+    - '#000000'
+    - '#fdc82e'
+    - '#ee0c19'
+    - '#44567c'
+  brandStrength: 0.6875
+  lightness: 0.3125
   saturation: 0.8844512738287449
   rhythmicContrast: 0.5871322616003454
 purpose: []
