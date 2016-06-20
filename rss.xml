@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brooklyn & New York City Life]]></title>
         <description><![CDATA[Brooklyn & New York City Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bkny-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 03:29:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 20 Jun 2016 04:45:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bkny-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Tired of spending every weekend traipsing around every open house in your price range but never having the satisfaction of that call telling you that the deal is yours? Worried that you'll never get on the property treadmill and be left behind altogether. Thinking you may have to consider the 'burbs, New Jersey, maybe even Phillie?</p>]]></description>
+            <link>https://thegrid.ai/bkny-life/tired-of-spending-every-weekend-traipsing-around-every-open/index.html</link>
+            <guid isPermaLink="false">09980932-0238-4e2f-a1ef-6665655cc15f</guid>
+            <pubDate>Mon, 20 Jun 2016 04:45:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd479b88-0361-47bb-b09c-ed3c76950832.png">]]></description>
-            <link>undefinedso-i-was-going-to-scour-the-new-york-press-to-give-you-all/index.html</link>
+            <link>https://thegrid.ai/bkny-life/so-i-was-going-to-scour-the-new-york-press-to-give-you-all/index.html</link>
             <guid isPermaLink="false">53e40cfa-d269-4a3b-a083-40ab111a762f</guid>
             <pubDate>Mon, 20 Jun 2016 03:29:26 GMT</pubDate>
         </item>
