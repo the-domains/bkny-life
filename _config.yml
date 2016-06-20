@@ -1,6 +1,6 @@
 name: BKNY.Life
 favicon: null
-layout_spectrum: 0.01159
+layout_spectrum: 0.90532
 typography_spectrum: 0.26637
 title: Brooklyn & New York City Life
 cta:
@@ -24,6 +24,6 @@ color:
     - '#44567c'
   brandStrength: 1
   lightness: 1
-  saturation: 0
+  saturation: 0.3125
   rhythmicContrast: 0.75
 purpose: []
