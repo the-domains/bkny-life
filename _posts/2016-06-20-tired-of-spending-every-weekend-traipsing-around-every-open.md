@@ -10,15 +10,15 @@ description: >-
   the deal is yours? Worried that you'll never get on the property treadmill and
   be left behind altogether. Thinking you may have to consider the 'burbs, New
   Jersey, maybe even Phillie?
-datePublished: '2016-06-20T04:45:14.760Z'
-dateModified: '2016-06-20T04:44:36.868Z'
+datePublished: '2016-06-20T04:51:27.793Z'
+dateModified: '2016-06-20T04:49:36.358Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-06-20-tired-of-spending-every-weekend-traipsing-around-every-open.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-20-tired-of-spending-every-weekend-traipsing-around-every-open.md
 url: tired-of-spending-every-weekend-traipsing-around-every-open/index.html
 _type: Article
 
@@ -31,7 +31,6 @@ In the past week, the New York Times has featured a couple of very interesting a
 So the first problem: caught on the sidelines in every bidding war? From where I'm standing this will become less of a problem as we meander towards what one hopes is a market correction. More on this later.
 
 New York real estate is a sport, and not for the faint of heart. You need to be a competitor, and you need to enjoy the chase. I don't want to make light of the fact that you are quite possibly dropping your life savings into these four walls, so to speak, but it really is a game.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e782f579-dbae-4e88-8638-d0c8fbe62919.jpg)
 
 So, rule number one: Get pre approved (no, not pre qualified silly!) Unless you have the backing of the bank of Mum & Dad, any seller is going to want to see what you've got, so put your best foot forward. There is no shame is laying out how much you can afford. The greater the amount, the stronger your chances. And don't worry about getting a new pre approval for every apartment and every price point. We are going to be shopping well below your limit.
 
