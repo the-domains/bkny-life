@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-20T02:58:49.809Z'
-dateModified: '2016-06-20T02:58:18.552Z'
+datePublished: '2016-06-20T03:29:41.759Z'
+dateModified: '2016-06-20T03:29:41.482Z'
 title: >-
   While Manhattan certainly has it's own allure, I never felt completely at home
   there, preferring instead the open skies and leafy streets that make up much
