@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -10,8 +10,8 @@ description: >-
   the deal is yours? Worried that you'll never get on the property treadmill and
   be left behind altogether. Thinking you may have to consider the 'burbs, New
   Jersey, maybe even Phillie?
-datePublished: '2016-06-20T04:51:27.793Z'
-dateModified: '2016-06-20T04:49:36.358Z'
+datePublished: '2016-06-20T04:52:41.594Z'
+dateModified: '2016-06-20T04:52:37.675Z'
 title: ''
 author: []
 sourcePath: >-
@@ -23,8 +23,9 @@ url: tired-of-spending-every-weekend-traipsing-around-every-open/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00a1437e-632a-4ebf-89c9-e5e0009af386.jpg)
+
 Tired of spending every weekend traipsing around every open house in your price range but never having the satisfaction of that call telling you that the deal is yours? Worried that you'll never get on the property treadmill and be left behind altogether. Thinking you may have to consider the 'burbs, New Jersey, maybe even Phillie?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c5f7c09-53c5-481a-8aa7-84ca89afb71f.jpg)
 
 In the past week, the New York Times has featured a couple of very interesting articles talking about these very problems and what you can do to take control (kinda).
 
