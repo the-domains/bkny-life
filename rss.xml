@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brooklyn & New York City Life]]></title>
+        <description><![CDATA[Brooklyn & New York City Life]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 20 Jun 2016 03:29:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd479b88-0361-47bb-b09c-ed3c76950832.png">]]></description>
+            <link>undefinedso-i-was-going-to-scour-the-new-york-press-to-give-you-all/index.html</link>
+            <guid isPermaLink="false">53e40cfa-d269-4a3b-a083-40ab111a762f</guid>
+            <pubDate>Mon, 20 Jun 2016 03:29:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
